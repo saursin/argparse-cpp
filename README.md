@@ -192,4 +192,4 @@ g++ -std=c++17 myapp.cpp -Ipath/to/argparse -Lpath/to/build -largparse
 
 ## License
 
-This library is part of the VortexDebug project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
