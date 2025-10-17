@@ -94,8 +94,6 @@ std::vector<std::string> parse_nargs_values(
     const std::string& arg_name) {
     
     std::vector<std::string> values;
-    bool is_variable;
-    int expected_count = get_nargs_count(nargs, is_variable);
     
     if (nargs.empty() || nargs == "1") {
         // Default case: exactly one argument

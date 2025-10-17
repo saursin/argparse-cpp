@@ -12,7 +12,6 @@ A Python-inspired C++17 argument parsing library with comprehensive features and
 - ✅ **Choices Validation**: Restrict values to predefined options
 - ✅ **nargs Support**: Python-style multiple values (`*`, `+`, `?`, numbers)
 - ✅ **Help System**: Automatic help generation with `-h`/`--help`
-- ✅ **Negative Numbers**: Proper handling of negative values
 - ✅ **Error Handling**: Comprehensive validation with clear error messages
 
 ## Quick Start
